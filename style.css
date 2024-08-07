@@ -1,3 +1,13 @@
-.cabecalho{
-    background-color: ;
+.cabecalho {
+    background-color: #49005E;
+    color: aliceblue;
+    display: flex padding: 24px 0;
+}
+
+.section1 {
+    background-color: #49005E;
+}
+
+.section2 {
+    background-color: #49005E;
 }
