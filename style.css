@@ -1,7 +1,8 @@
 .cabecalho {
     background-color: #49005E;
     color: aliceblue;
-    display: flex padding: 10px;
+    padding: 10px;
+    display: flex 
 }
 
 .section1 {
@@ -12,7 +13,7 @@
 
 .section2 {
     background-color: #49005E;
-    padding: 20px;
+    padding: 5px;
 }
 
 .cabecalho-imagem{
