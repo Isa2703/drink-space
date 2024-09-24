@@ -2,24 +2,44 @@
     background-color: #49005E;
     color: aliceblue;
     padding: 10px;
-    display: flex 
+    display: flex
 }
 
 .section1 {
     background-color: #49005E;
     padding: 20px;
+    width: 5%;
 
 }
 
 .section2 {
     background-color: #49005E;
     padding: 2px;
+    width: 5%;
 }
 
-.cabecalho-imagem{
+.section3 {
+    background-color: #49005E;
+    padding: 2px;
+    width: 5%;
+}
+
+.section4 {
+    background-color: #49005E;
+    padding: 2px;
+    width: 5%;
+}
+
+.section5 {
+    background-color: #49005E;
+    padding: 2px;
+    width: 5%;
+}
+
+.cabecalho-imagem {
     width: 20%;
 }
 
-.rodape{
+.rodape {
     background-color: #49005E;
 }
