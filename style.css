@@ -31,7 +31,6 @@
 
 .section5 {
     background-color:  #49005E;
-    padding: 5px;
   
 }
 
@@ -43,22 +42,8 @@
     background-color: #49005E;
 }
 
-.redforest{
-    width: 2%;
-}
-
-.refreshingstrambarry{
-    width: 2%;
-}
-
-.marguerita{
+.drinks{
     width: 20%;
-}
-
-.refreshinglemon{
-    width: 1%;
-}
-
-.passionfruit{
-    width: 10%;
+    height: 210;
+    display: flex;
 }
