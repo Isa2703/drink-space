@@ -47,3 +47,8 @@
     height: 210;
     display: flex;
 }
+
+.letras {
+    width: 60%;
+    display: flex;
+}
